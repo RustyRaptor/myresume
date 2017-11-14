@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Ziad Alexander Arafat",
+    "label": "Computer Science Student",
+    "picture": "",
+    "email": "ziadarafat1@gmail.com",
+    "phone": "(575) 442-3691",
+    "website": "pcmrhub.tech/blog",
+    "summary": "I have had hands on experience with computers from an early age. Working with both software and hardware to help people solve problems is something I enjoy doing and do on a regular basis. I've had a fair amount of experience repairing electronics as well. Currently working to kickstart my education in computer science.",    
+    "location": {
+      "address": "403 Sunglow Ave",
+      "postalCode": "88310",
+      "city": "Alamogordo",
+      "countryCode": "US",
+      "region": "New Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ziadarafat",
+        "url": "https://www.linkedin.com/in/ziadarafat/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "LAMP",
+        "MEAN",
+        "LEMP",
+        "NodeJS",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "PC Building and Maintainence",
+      "level": "Master",
+      "keywords": [
+        "Software Diagnostics",
+        "Hardware Diagnostics",
+        "Picking budget components"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Second"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Linux systems",
+      "keywords": [
+        "Linux",
+        "Ubuntu",
+        "Arch Linux",
+        "CentOS"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "Perl",
+        "Bash",
+        "Lua",
+        "C"
+      ]
+    },
+    {
+      "name": "STEM",
+      "keywords":[
+        "Science",
+        "Technology",
+        "Economics",
+        "Engineering",
+        "Math"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "TBD",
+      "reference": ""
+    }
+  ]
+}
